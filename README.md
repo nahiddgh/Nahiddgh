@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm gonna teach you how to deploy on different networks,steps are the same but codes are different 
 
 <!--
 **nahiddgh/Nahiddgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
