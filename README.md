@@ -2,6 +2,7 @@
 I'm gonna teach you how to deploy on different networks,steps are the same but codes are different 
 if you have any question feel free to dm me on Twitter @nahid_dgh1998
 or on telegram @snow_whiite98
+dc: @nahid_dgh1998
 
 <!--
 **nahiddgh/Nahiddgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
